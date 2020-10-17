@@ -1,0 +1,1 @@
+test visibility plugin using hooks instead of an actor table scan
